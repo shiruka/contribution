@@ -1,2 +1,2 @@
 ### Technical
-- Shiru ka's projects use Java 11
+- Shiru ka uses Java 11
